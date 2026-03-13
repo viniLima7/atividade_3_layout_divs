@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.fundo{
+    background-color: rgb(42, 42, 161);
+    width: 660px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.flex{
+    display: flex;
+}
+
+.bloco{
+    padding: 80px;
+    margin: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(199, 54, 54);
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    margin: 5px;
+}
+
+.esticar{
+    padding-right: 279px;
+}
+
+.esticarBaixo{
+    padding-bottom: 279px;
+}
+
+p{
+    font-size: 40px;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(25, 0, 255, 0.397);
+    color: white;
+    width: 660px;
+}
