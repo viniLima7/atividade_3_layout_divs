@@ -17,13 +17,12 @@
 
 .bloco{
     padding: 80px;
-    margin: 10px;
+    margin: 5px;
     color: rgb(255, 255, 255);
     background-color: rgb(199, 54, 54);
     justify-content: center;
     text-align: center;
     align-content: center;
-    margin: 5px;
 }
 
 .esticar{
